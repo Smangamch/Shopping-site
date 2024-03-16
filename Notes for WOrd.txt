@@ -1,0 +1,3 @@
+PSP- Payment Service Provider is an online platform that one can use to create an account for free and use their resources in order to create a payment method
+like creating a pay now button and then using it in your own website as a payment option. It also allows it's user to be able to use the secure payment method 
+when a particular customer is buying a product from a website. 

@@ -1,0 +1,5 @@
+<html>
+	<title>Payment successful</title>
+		<p><h3><br>Purchasse successful, thank you for your support, if you have any queries youcan contact us</br>at our Facebook page or chat online with our friendly assistance.</h3></p> 
+		<html>
+		
